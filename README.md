@@ -8,7 +8,7 @@ The project uses **React** for the frontend and **FastAPI + Python** for the bac
 
 ## 🌐 Live Demo
 
-**Live Application:**[(https://cardiovascular-app.vercel.app/)]
+[Live Application](https://cardiovascular-app.vercel.app/)
 
 The application is deployed and available online for live testing.
 
